@@ -43,7 +43,7 @@ const questions = [
   },
   {
     question: "What happens if the player is touching gold?",
-    answers: ["win", "you win", "you win!", "say you win!" "say you win", "add score"],
+    answers: ["win", "you win", "you win!", "say you win!", "say you win", "add score"],
     concept: "conditionals",
     image: "images/mc8.png"
   },
